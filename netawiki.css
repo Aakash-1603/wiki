@@ -1,0 +1,311 @@
+body
+{
+    overflow-x:hidden;
+}
+.top
+{
+    /* border-style: solid;
+    border-color:black; */
+    height:60px;
+    width:1440px;
+    cursor: pointer;
+}
+.menu
+{
+    float:left;
+    height:30px;
+    width:30px;
+    position:relative;
+    left:20px;
+    top:12px;
+}
+.img
+{
+    position:relative;
+    left:50px;
+}
+.img1
+{
+    float: left;
+    height:50px;
+    width:50px;
+}
+.img2
+{
+    height:40px;
+    width:80px;
+    margin-top:2px;
+    padding:1px;  
+    float:left;
+    position:relative;
+    left:25px;
+    bottom:14px;
+    color:black;
+}
+.img3
+{
+    height:50px;
+    width:120px;
+    padding:16px;
+    position:relative;
+    right:80px;
+}
+.img4
+{
+    height:40px;
+    width:40px;
+    position:relative;
+    left:1445px;
+    bottom:215px;
+}
+.search
+{
+    height:28px;
+    width:400px;
+    position:relative;
+    left:330px;
+    bottom:75px;
+}
+.but
+{
+    height:32px;
+    width:70px;
+    position:relative;
+    left:325px;
+    bottom:75px;
+}
+.ca
+{
+    width:120px;
+    position:relative;
+    left:1240px;
+    bottom:125px;  
+}
+/* div{
+    border-style:solid;
+    border-color:black;
+} */
+.li
+{
+    width:100px;
+    position:relative;
+    left:1370px;
+    bottom:165px; 
+}
+.left
+{
+    height:513px;
+    width:330px;
+    /* border-style:solid;
+    border-color:black; */
+    position:fixed;
+    cursor:grab;
+}
+.right
+{
+    height:800px;
+    width:250px;
+    /* border-style:solid;
+    border-color:black; */
+    position:relative;
+    left:1255px;
+    top:50px;
+    cursor:grab;
+}
+.mid
+{
+    height:5000px;
+    width:905px;
+    /* border-style:solid;
+    border-color:rgb(255, 0, 0); */
+    position:relative;
+    left:340px;
+    bottom:805px;
+    cursor:grab;
+}
+.midc
+{
+    position:relative;
+    bottom:50px;
+}
+#ch
+{
+    position:relative;
+    left:40px;
+    top:18px;
+}
+#sh
+{
+    position:relative;
+    top:20px;
+    font-size:35px;
+}
+#t
+{
+    position:relative;
+    left:60px;
+    bottom:39px;
+}
+.at
+{
+    height:30px;
+    position:relative;
+    bottom:20px;
+}
+.lefc
+{
+    height:100px;
+    position:relative;
+    top:22px;
+}
+#ph1
+{
+    width:250px;
+}
+#ph2
+{
+    width:250px;
+}
+#ph3
+{
+    width:250px;
+}
+.portion
+{
+    height:200vh;
+}
+#r
+{
+    position:relative;
+    left:590px;
+    bottom:80px;
+}
+#vs
+{
+    position:relative;
+    left:640px;
+    bottom:120px;
+}
+#vh
+{
+    position:relative;
+    left:740px;
+    bottom:159px;
+}
+#to
+{
+    position:relative;
+    left:845px;
+    bottom:199px;
+}
+#bio
+{
+    font-size:25px;
+
+}
+#map
+{
+    height:325px;
+    width:225px;
+}
+#fam
+{
+    height:200px;
+    width:250px;
+}
+#pho1
+{
+    height:200px;
+    width:250px;
+}
+#pho2
+{
+    height:325px;
+    width:230px;
+}
+#pho3
+{
+    height:190px;
+    width:220px;
+}
+#pho4
+{
+    height:180px;
+    width:210px;
+}
+#pho5
+{
+    height:200px;
+    width:290px;
+}
+#ido
+{
+    font-size:25px;
+}
+#pho
+{
+    height:180px;
+    width:150px;
+}
+#pho7
+{
+    height:190px;
+    width:220px;
+}
+#pho8
+{
+    height:320px;
+    width:210px;
+}
+#no
+{
+    font-size:25px; 
+}
+#conten
+{
+    color:blue;
+    position:relative;
+    left:40px;
+}
+#link1
+{
+    position:relative;
+    left:2px;
+}
+#link2
+{
+    position:relative;
+    left:12px;
+}
+#link3
+{
+    position:relative;
+    left:22px;
+}
+#link4
+{
+    position:relative;
+    left:32px;
+}
+#link5
+{
+    position:relative;
+    left:42px;
+}
+#link6
+{
+    position:relative;
+    left:52px;
+}
+a:hover
+{
+    color:orange;
+}
+p:hover
+{
+    color:orange;
+}
+img:hover
+{
+    background-color:orangered;
+}
